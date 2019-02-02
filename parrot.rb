@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot
   puts "Squawk!"
-  expect{phrase = "Squawk"}
+  parrot
 end
