@@ -2,4 +2,4 @@
 # returns the phrase
 def parrot
   puts "Squawk!"
-  phrase parrot {
+  phrase parrot = 
